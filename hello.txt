@@ -1,2 +1,1 @@
-hello Git
-你还好吧，天冷容易饿
+hello Git lalala
